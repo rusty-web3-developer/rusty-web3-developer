@@ -57,14 +57,10 @@
 <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-</div>
-
-<div align="center">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" />
