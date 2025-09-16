@@ -7,7 +7,7 @@
 <br/>
 <p align="left">
     Just call me <b>Rusty</b>, As a Blockchain Developer, I love working in Solana, EVM, Bitcoin, and Sui Blockchain.
-    <br/>I am one of the developers who loves trading bot, P2E games, nft marketplace, meme coin and nft collection launch.
+    <br/>I am one of the Developers who loves Trading bot, P2E Games, Nft Marketplace, Meme Coin and Nft Collection Launch.
 </p> 
 
 <p align="left">
@@ -101,12 +101,6 @@
 - Live: <a href="https://pure-chain-capital-demo.vercel.app/">Purechain Capital</a>
 
 <br /> 
-
-<div align="center">
-    <a href="https://github.com/zentrix-x">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=zentrix-x&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
-    </a>
-</div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake.svg#gh-light-mode-only)
