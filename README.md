@@ -102,6 +102,17 @@
 
 <br /> 
 
+
+<h4><u><strong>⭐ &nbsp;MINTFORCE</strong></u> &nbsp;(NFT Mint : BNB,ETH)</h4>
+<hr />
+
+<img align="right" width="500px" src="./image-1691767428849.png">
+<div>The world of Mining has been waiting for a new era, and we are here to deliver it. Project MINTFORCE provides you with an ultra mining experience by bringing the mining ecosystem into the Metaverse!.</div>
+
+- Live: <a href="https://nft.mrmint.io/">Mr MINTFORCE</a>
+
+<br />
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
