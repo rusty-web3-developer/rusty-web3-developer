@@ -39,9 +39,9 @@
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-77777?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-?style=for-the-badge&logo=ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Solana-00DC8E?style=for-the-badge&logo=solana&logoColor=white" />
+<img src="https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff" />
 <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
 <img src="https://img.shields.io/badge/Sui-000000?style=for-the-badge&logo=sui&logoColor=white" />
 <img src="https://img.shields.io/badge/NFT-FF007A?style=for-the-badge&logo=nft&logoColor=white" />
@@ -50,7 +50,7 @@
 
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=rusty1210&theme=shadow-purple" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rusty1210&theme=ocean-gradient" />
 </div>
 <hr/>
 
