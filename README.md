@@ -87,8 +87,6 @@
 
 <br />
 
-<br /> 
-
 <h4><u><strong>⭐ &nbsp;SOLANA TOKEN LAUNCHPAD</strong></u> &nbsp;(TOKEN LAUNCHPAD : SOLANA)</h4>
 <hr />
 
@@ -121,9 +119,9 @@
 
 - Live: <a href="https://nft.mrmint.io/">Mr MINTFORCE</a>
 <div>nft.mrmint.io is a React-based NFT minting dApp built with Solidity smart contracts, wallet integration (ethers.js/web3.js), and likely IPFS/Node.js backend support.</div>
-<br />
-<br /> 
 
+<br />
+ 
 <h4><u><strong>⭐ &nbsp;SOLANA TOKEN LAUNCHPAD</strong></u> &nbsp;(TOKEN LAUNCHPAD : SOLANA)</h4>
 <hr />
 
@@ -134,6 +132,8 @@
 - Live: <a href="https://shadowfang-solana-token-launchapd.vercel.app/">SOLANA TOKEN LAUNCHPAD</a>
 
 <br />
+
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
