@@ -117,8 +117,19 @@
 <img align="right" width="500px" src="./solana-token-launchpad.jpg">
 <div>The most advanced Solana token launchpad. Create, deploy, and manage your tokens with enterprise-grade security and simplicity.</div>
 
-<div>Solana Token LaunchPad : Next.js, Web3.Js, Solana, Smartcontract, Supabase</div>
+<div>Solana Token LaunchPad : Next.js,Node.js Web3.Js, Solana, Smartcontract, Supabase</div>
 - Live: <a href="https://shadowfang-solana-token-launchapd.vercel.app/">SOLANA TOKEN LAUNCHPAD</a>
+
+<br />
+
+<h4><u><strong>⭐ &nbsp;WEB3 - Invest in Real Farms & Carbon Projects </strong></u> &nbsp;(WEB3 INTEGRATION : Agriverse )</h4>
+<hr />
+
+<img align="right" width="500px" src="./web3.jpg">
+<div>Agriverse - Invest in Real Farms & Carbon Projects is a web app that lets users invest in agricultural and carbon-offset or climate-positive projects. It likely uses frontend tech ( React.js) plus backend APIs for project data, with payment or tokenization logic.</div>
+
+<div>Invest in Real Farms & Carbon Projects : React.js, Web3.Js, Ethereum, Smartcontract, Supabase, API Integratio,Node.js</div>
+- Live: <a href="https://agri9.netlify.app/">Invest in Real Farms & Carbon Projects (WEB3)</a>
 
 <br />
 
