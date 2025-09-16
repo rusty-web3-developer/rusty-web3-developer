@@ -87,17 +87,6 @@
 
 <br />
 
-<h4><u><strong>⭐ &nbsp;SOLANA TOKEN LAUNCHPAD</strong></u> &nbsp;(TOKEN LAUNCHPAD : SOLANA)</h4>
-<hr />
-
-<img align="right" width="500px" src="./solana-token-launchpad.jpg">
-<div>The most advanced Solana token launchpad. Create, deploy, and manage your tokens with enterprise-grade security and simplicity.</div>
-
-<div>Solana Token LaunchPad : Next.js, Web3.Js, Solana, Smartcontract, Supabase</div>
-- Live: <a href="https://shadowfang-solana-token-launchapd.vercel.app/">SOLANA TOKEN LAUNCHPAD</a>
-
-<br />
-
 <h4><u><strong>⭐ &nbsp;LOGARITHM GAMES Mint</strong></u></h4>
 <hr />
 
