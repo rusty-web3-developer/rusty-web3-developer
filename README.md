@@ -77,7 +77,7 @@
 <h4><u><strong>⭐ &nbsp;LOGARITHM GAMES Mint</strong></u> &nbsp;(NFT Mint : BNB)</h4>
 <hr />
 
-<img align="right" width="500px" src="https://github.com/user-attachments/assets/76518f3c-1336-4718-9baf-7d1585eecb75">
+<img align="right" width="500px" src="./nft.jpg">
 <div>This site is a mint site for LOGARITHM GAMES.</div>
 <div>I performed thefront-end part and contract part here. Here, BNB tokens were used.</div>
 
@@ -105,7 +105,7 @@
 <h4><u><strong>⭐ &nbsp;LOGARITHM GAMES Mint</strong></u></h4>
 <hr />
 
-<img align="right" width="500px" src="https://github.com/user-attachments/assets/756c34b2-2d3a-4637-af41-6ab7521b0edc">
+<img align="right" width="500px" src="./world.jpg">
 <div>Purechain Capital is a venture capital firm dedicated to advancing the blockchain industry through strategic investments in innovation and technology.</div>
 <div>Our expertise lies in nurturing startups and accelerating their growth in the fast-paced world of blockchain.</div>
 
