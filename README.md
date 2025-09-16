@@ -81,11 +81,22 @@
 <div>This site is a mint site for LOGARITHM GAMES.</div>
 <div>I performed thefront-end part and contract part here. Here, BNB tokens were used.</div>
 
-<div>- LOGARITHM GAMES MintNFT Front-end : React.js, Javascript, Wagmi </div>
-<div>- LOGARITHM GAMES MintNFT Back-end : Node.js </div>
-<div>- LOGARITHM GAMES MintNFT Smart Contract : BNB, solidity </div>
+<div> React interacts with smart contracts to support NFT marketplace functionality: wallet connection, listing, buying/selling of NFTs, metadata via IPFS or similar, and a backend or smart contracts in Solidity.</div>
 
 - Live: <a href="https://yini-marketplace.vercel.app/">LOGARITHM GAMES MintNFT</a>
+
+<br />
+
+<br /> 
+
+<h4><u><strong>⭐ &nbsp;SOLANA TOKEN LAUNCHPAD</strong></u> &nbsp;(TOKEN LAUNCHPAD : SOLANA)</h4>
+<hr />
+
+<img align="right" width="500px" src="./solana-token-launchpad.jpg">
+<div>The most advanced Solana token launchpad. Create, deploy, and manage your tokens with enterprise-grade security and simplicity.</div>
+
+<div>Solana Token LaunchPad : Next.js, Web3.Js, Solana, Smartcontract, Supabase</div>
+- Live: <a href="https://shadowfang-solana-token-launchapd.vercel.app/">SOLANA TOKEN LAUNCHPAD</a>
 
 <br />
 
@@ -96,23 +107,33 @@
 <div>Purechain Capital is a venture capital firm dedicated to advancing the blockchain industry through strategic investments in innovation and technology.</div>
 <div>Our expertise lies in nurturing startups and accelerating their growth in the fast-paced world of blockchain.</div>
 
-<div>- Purechain Capital Front-end : React.js, Javascript, Tailwind CSS, Animation </div>
+<div>- Purechain Capital : React.js, Javascript, Tailwind CSS, Animation, SmartContract, Supabase, ETH, Solidty </div>
 
 - Live: <a href="https://pure-chain-capital-demo.vercel.app/">Purechain Capital</a>
 
 <br /> 
 
-
 <h4><u><strong>⭐ &nbsp;MINTFORCE</strong></u> &nbsp;(NFT Mint : BNB,ETH)</h4>
 <hr />
 
-<img align="right" width="500px" src="./image-1691767428849.png">
+<img align="right" width="500px" src="./mint.jpg">
 <div>The world of Mining has been waiting for a new era, and we are here to deliver it. Project MINTFORCE provides you with an ultra mining experience by bringing the mining ecosystem into the Metaverse!.</div>
 
 - Live: <a href="https://nft.mrmint.io/">Mr MINTFORCE</a>
+<div>nft.mrmint.io is a React-based NFT minting dApp built with Solidity smart contracts, wallet integration (ethers.js/web3.js), and likely IPFS/Node.js backend support.</div>
+<br />
+<br /> 
+
+<h4><u><strong>⭐ &nbsp;SOLANA TOKEN LAUNCHPAD</strong></u> &nbsp;(TOKEN LAUNCHPAD : SOLANA)</h4>
+<hr />
+
+<img align="right" width="500px" src="./solana-token-launchpad.jpg">
+<div>The most advanced Solana token launchpad. Create, deploy, and manage your tokens with enterprise-grade security and simplicity.</div>
+
+<div>Solana Token LaunchPad : Next.js, Web3.Js, Solana, Smartcontract, Supabase</div>
+- Live: <a href="https://shadowfang-solana-token-launchapd.vercel.app/">SOLANA TOKEN LAUNCHPAD</a>
 
 <br />
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
