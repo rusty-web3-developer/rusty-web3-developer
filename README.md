@@ -88,6 +88,20 @@
 <br />
 <br />
 
+<h4><u><strong>⭐ &nbsp;SERA.CASINO GAME</strong></u> &nbsp;(sera.casino)</h4>
+<hr />
+
+<img align="right" width="500px" src="./Screenshot_5.jpg">
+<div>Sera.Casino is a Solana-based GambleFi/Web3 casino platform offering cryptocurrency-based games with features such as hash seed (provably fair) games, futures betting, and no KYC requirements.</div>
+<div>Sera.Casino holds a utility token, $SC (Sera Token), with a total supply of 10,000,000,000 SC.</div>
+
+<div> There are numerous negative reviews on Trustpilot. Users are reporting issues such as withdrawal denials, unexpected account locks, and manipulation of bonus/wage requirements.</div>
+
+- Live: <a href="https://sera.casino/">SERA.CASINO GAME</a>
+
+<br />
+<br />
+
 <h4><u><strong>⭐ &nbsp;LOGARITHM GAMES Mint</strong></u></h4>
 <hr />
 
