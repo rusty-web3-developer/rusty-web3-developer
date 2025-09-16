@@ -1,12 +1,12 @@
 <div align="center">
     <p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=rustsol114&theme=darkmode&data=followers,repositories,stars,commits' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=rusty1210&theme=nautilus&data=followers,repositories,stars,commits' />
 </p>
     <img width="1850" height="500" align="center" src="https://media.istockphoto.com/id/1473166916/photo/concept-of-cloud-technologies-artificial-intelligence-blockchain-technologies-big-data-cube.jpg?s=612x612&w=0&k=20&c=GBje609ja1zkaAJoasqYOkx5rg02z5lvj2qKgpJwMeg=" alt="EvilG-MC"/>
 </div>
 <br/>
 <p align="left">
-    Just call me <b>Rusty</b>, As a blockchain developer, I love working in Solana, EVM, Bitcoin, and Sui Blockchain.
+    Just call me <b>Rusty</b>, As a Blockchain Developer, I love working in Solana, EVM, Bitcoin, and Sui Blockchain.
     <br/>I am one of the developers who loves trading bot, P2E games, nft marketplace, meme coin and nft collection launch.
 </p> 
 
