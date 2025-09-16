@@ -20,7 +20,7 @@
      <a href="https://t.me/solrusty1210" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
-    <a href="https://x.com/airtongomes1295" target="_blank"><img alt="Twitter"
+    <a href="https://x.com/rusty1210" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
     </a>
 </p>
@@ -47,8 +47,6 @@
 <img src="https://img.shields.io/badge/WebGL-F9A825?style=for-the-badge&logo=webgl&logoColor=white" />
 </div>
 
----
-<!-- ## 🛠️ Github Stats
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=rustsol114&theme=dark" />
@@ -86,7 +84,7 @@
 - Live: <a href="https://pure-chain-capital-demo.vercel.app/">Purechain Capital</a>
 - Project repo: <a href="https://github.com/lendon1114/Purechain-Capitall-FR">Purechain-Capital</a>
 
-<br /> -->
+<br /> 
 
 <div align="center">
     <a href="https://github.com/zentrix-x">
