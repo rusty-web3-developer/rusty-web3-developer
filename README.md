@@ -2,7 +2,7 @@
     <p align='center'>
   <img src='https://github-widgetbox.vercel.app/api/profile?username=rusty-web3-developer&theme=metropolis&data=followers,repositories,stars,commits' />
 </p>    
-    <img width="1850" height="500" align="center" src="1234.jpg alt="EvilG-MC"/>
+    <img width="1850" height="500" align="center" src="1234.jpg" alt="EvilG-MC"/>
 </div>
 <br/>
 <p align="left">
