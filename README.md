@@ -6,7 +6,8 @@
 </div>
 <br/>
 <p align="left">
-    Just call me <b>Rusty</b>, As a Blockchain Developer, I love working in Solana, EVM, Bitcoin, and Sui Blockchain.
+    Just call me <b>Rusty</b>, As a Blockchain Developer, I love working in Solana, EVM, Bitcoin, and Sui Blockchain and Focusing Solana All Project.
+    like MemeCoin, Solana CasinoGame, Trading Bots, Dapp, DAO, Etc...
     <br/>I am one of the Developers who loves Trading bot, P2E Games, Nft Marketplace, Meme Coin and Nft Collection Launch.
 </p> 
 
